@@ -19,3 +19,9 @@ Chegou o bootcamp que vai te dar a oportunidade de impulsionar os seus conhecime
 <br><br>
 
 ## Desafios
+
+**Desafio 1 - Infraestrutura como código**
+<br><br>
+Montar um Script de criação de estrutura de usuários, diretórios e permissões. O script deve criar 4 pastas, uma pública e uma para cada um dos 3 grupos de usuários. Criar 3 usuários para cada grupo. Cada usuário só terá acesso a pasta pública e a pasta do grupo ao qual pertence.
+
+Código [aqui](https://github.com/andreLTMoraes/j-devops-aws-impulso/blob/main/desafios/desafio1.sh).
