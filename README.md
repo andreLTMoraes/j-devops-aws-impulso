@@ -25,3 +25,9 @@ Chegou o bootcamp que vai te dar a oportunidade de impulsionar os seus conhecime
 Montar um Script de criação de estrutura de usuários, diretórios e permissões. O script deve criar 4 pastas, uma pública e uma para cada um dos 3 grupos de usuários. Criar 3 usuários para cada grupo. Cada usuário só terá acesso a pasta pública e a pasta do grupo ao qual pertence.
 
 Código [aqui](https://github.com/andreLTMoraes/j-devops-aws-impulso/blob/main/desafios/desafio1.sh).
+
+**Desafio 1 - Infraestrutura como código - Servidor web**
+<br><br>
+Montar um Script para instalação e implantação de um servidor e uma aplicação web. A aplicação já encontra-se pronta e disponível no github, devendo o script baixa-la e configurar o servidor.
+
+Código [aqui](https://github.com/andreLTMoraes/j-devops-aws-impulso/blob/main/desafios/desafio2.sh).
