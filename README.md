@@ -26,8 +26,14 @@ Montar um Script de criação de estrutura de usuários, diretórios e permissõ
 
 Código [aqui](https://github.com/andreLTMoraes/j-devops-aws-impulso/blob/main/desafios/desafio1.sh).
 
-**Desafio 1 - Infraestrutura como código - Servidor web**
+**Desafio 2 - Infraestrutura como código - Servidor web**
 <br><br>
 Montar um Script para instalação e implantação de um servidor e uma aplicação web. A aplicação já encontra-se pronta e disponível no github, devendo o script baixa-la e configurar o servidor.
 
 Código [aqui](https://github.com/andreLTMoraes/j-devops-aws-impulso/blob/main/desafios/desafio2.sh).
+
+**Desafio 3 - Docker Compose: Executando uma aplicação HTML em um container apache**
+<br><br>
+Criar um arquivo YML com as definições de um servidor apache, especificando onde estão localizados os arquivos da aplicação.
+
+Código [aqui](https://github.com/andreLTMoraes/j-devops-aws-impulso/blob/main/desafios/desafio3/).
